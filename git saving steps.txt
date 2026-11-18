@@ -1,0 +1,4 @@
+cd /d "D:\Python Coding"
+git add .
+git commit -m "Day 2: what you learned"
+git push
